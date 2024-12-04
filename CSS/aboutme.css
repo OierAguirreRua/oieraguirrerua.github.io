@@ -109,18 +109,18 @@ body::after{
     color:rgb(132, 192, 207);
 }
 .oier-singing {
-    height: 40%;
+    height: 50%;
     width: 40%;
     margin-left: 10vh;
-    margin-top: 13vh;
+    margin-top: 19vh;
 }
 .aboutme-text {
     flex-direction: column;
 }
 .aboutme-text h1 {
     position: absolute;
-    right: 420px;
-    top: 150px; 
+    right: 23%;
+    top: 15%; 
     color: white;
     font-size: 50px;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -136,17 +136,17 @@ body::after{
 .aboutme-text h2{
     display: block;
     position: absolute;
-    left: 1000px;
-    right: 200px;
-    top: 250px;
+    left: 45%;
+    right: 10%;
+    top: 25%;
     color: white;
-    font-size: 18px;
+    font-size: 112%;
     font-family:'Times New Roman', Times, serif;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); 
     letter-spacing: 5px;
     text-align: justify;
     letter-spacing: 0,5;
-    line-height: 110%;
+    line-height: 105%;
     
 }
 

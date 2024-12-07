@@ -127,7 +127,6 @@ body::after{
 }
 .videos-film{
     justify-content: center;
-    display: block;
 }
 .videos-up-row{
     display: flex;

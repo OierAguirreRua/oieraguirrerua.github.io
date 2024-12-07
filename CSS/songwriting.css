@@ -51,7 +51,27 @@ body::after{
     display: block;
     height: 100%;
 }
-.header-main-navigation ul li a:hover {
+.header-main-navigation .home-nav a:hover {
+    color: rgb(132, 192, 207);
+}
+
+.header-main-navigation .aboutme-nav a:hover {
+    color: rgb(132, 192, 207);
+}
+
+.header-main-navigation .songwriting-nav a:hover {
+    color:rgb(228, 233, 167);
+}
+
+.header-main-navigation .production-nav a:hover {
+    color:rgb(232, 189, 248);
+}
+
+.header-main-navigation .filmscoring-nav a:hover {
+    color: rgb(191, 244, 194);
+}
+
+.header-main-navigation .contact-nav a:hover {
     color: rgb(132, 192, 207);
 }
 
@@ -107,4 +127,21 @@ body::after{
 }
 .header-main-socialmedia-tiktok-tag:hover {
     color:rgb(132, 192, 207);
+}
+.songwriting-header{
+    justify-content: center;
+    margin-top: 3%;
+    height: 10vh;
+    width: 100%;
+    color: white;
+    font-size: 50px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); 
+    display: flex;
+}
+.songwriting-header-songs{
+    margin-left: 10px;
+    text-transform: uppercase;
+    color: rgb(216, 223, 141);
+    margin-right: 10px;
 }

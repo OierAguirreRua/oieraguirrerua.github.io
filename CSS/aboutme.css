@@ -126,11 +126,15 @@ body::after{
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     display: flex;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); 
-    text-transform: uppercase;
     letter-spacing: 5px;
     margin: 0;
     padding: 0;
     letter-spacing: 7px;
+}
+.oier{
+    color: rgb(132, 192, 207);
+    margin-left: 20px;
+    text-transform:uppercase
 }
 
 .aboutme-text h2{
@@ -147,70 +151,8 @@ body::after{
     text-align: justify;
     letter-spacing: 0,5;
     line-height: 105%;
-    
 }
 
-.film-header{
-    justify-content: center;
-    margin-top: 3%;
-    height: 10vh;
-    width: 100%;
-    color: white;
-    font-size: 50px;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); 
-    letter-spacing: px;
-    display: flex;
-}
-.film-header-filmscenes{
-    margin-left: 10px;
-    text-transform: uppercase;
-    color: rgb(132, 192, 207);
-}
-.videos-film{
-    justify-content: center;
-}
-.videos-up-row{
-    display: flex;
-    margin-top: 30px;
-    margin-left: 60px;
-}
-
-.dark-knight{
-    width: 500px;
-    margin: 0 auto;
-}
-
-.jump-street{
-    width: 500px;
-    margin: 0 auto;
-}
-
-.cramp-cretaceous {
-    width: 500px;
-    margin: 0 auto;
-}
-
-.videos-down-row{
-    display: flex;
-    margin-top: 100px;
-    margin-left: 60px;
-}
-
-.get-out{
-    width: 500px;
-    margin: 0 auto;
-}
-
-.shape-of-water{
-    width: 500px;
-    margin: 0 auto;
-}
-
-.little-women{
-    width: 500px;
-    margin: 0 auto;
-}
 
 
 

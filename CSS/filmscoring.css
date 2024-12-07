@@ -108,3 +108,75 @@ body::after{
 .header-main-socialmedia-tiktok-tag:hover {
     color:rgb(132, 192, 207);
 }
+
+.film-header{
+    justify-content: center;
+    margin-top: 3%;
+    height: 10vh;
+    width: 100%;
+    color: white;
+    font-size: 50px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); 
+    letter-spacing: px;
+    display: flex;
+}
+.film-header-filmscenes{
+    margin-left: 10px;
+    text-transform: uppercase;
+    color: rgb(132, 192, 207);
+}
+.videos-film{
+    justify-content: center;
+    display: block;
+}
+.videos-up-row{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 70px;
+    margin-right: 80px;
+    justify-content: space-between;
+}
+
+.dark-knight{
+    width: 500px;
+    margin: 0 auto;
+}
+
+.jump-street{
+    width: 500px;
+    margin: 0 auto;
+}
+
+.cramp-cretaceous {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.videos-down-row{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 70px;
+    margin-right: 80px;
+    justify-content: space-between;
+}
+
+.get-out{
+    width: 500px;
+    margin: 0 auto;
+}
+
+.shape-of-water{
+    width: 500px;
+    margin: 0 auto;
+}
+
+.little-women{
+    width: 500px;
+    margin: 0 auto;
+}
+
+
+
+
+

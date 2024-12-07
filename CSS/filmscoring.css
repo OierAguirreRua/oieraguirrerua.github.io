@@ -118,7 +118,6 @@ body::after{
     font-size: 50px;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); 
-    letter-spacing: px;
     display: flex;
 }
 .film-header-filmscenes{

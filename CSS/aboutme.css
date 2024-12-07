@@ -51,9 +51,30 @@ body::after{
     display: block;
     height: 100%;
 }
-.header-main-navigation ul li a:hover {
+.header-main-navigation .home-nav a:hover {
     color: rgb(132, 192, 207);
 }
+
+.header-main-navigation .aboutme-nav a:hover {
+    color: rgb(132, 192, 207);
+}
+
+.header-main-navigation .songwriting-nav a:hover {
+    color:rgb(228, 233, 167);
+}
+
+.header-main-navigation .production-nav a:hover {
+    color:rgb(232, 189, 248);
+}
+
+.header-main-navigation .filmscoring-nav a:hover {
+    color: rgb(191, 244, 194);
+}
+
+.header-main-navigation .contact-nav a:hover {
+    color: rgb(132, 192, 207);
+}
+
 
 .header-main-socialmedia{
     width: 250px;

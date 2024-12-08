@@ -149,7 +149,7 @@ body::after{
 .production-img {
     height: 50%;
     width: 40%;
-    margin-left: 100vh;
+    margin-left: 105vh;
     margin-top: 10vh;
 }
 
@@ -177,7 +177,7 @@ body::after{
 .tropical-house{
     justify-content: left;
     margin-top: 5vh;
-    margin-left: 14vh;
+    margin-left: 16vh;
     height: 5vh;
     width: 100%;
     color: rgb(209, 198, 255);
@@ -189,7 +189,7 @@ body::after{
 .they-wont-get-us{
     justify-content: left;
     margin-top: 5vh;
-    margin-left: 12vh;
+    margin-left: 14vh;
     height: 5vh;
     width: 100%;
     color: rgb(209, 198, 255);
@@ -201,7 +201,7 @@ body::after{
 .countless-hours{
     justify-content: center;
     margin-top: 5vh;
-    margin-left: 13vh;
+    margin-left: 16vh;
     height: 5vh;
     width: 100%;
     color: rgb(209, 198, 255);
@@ -213,10 +213,10 @@ body::after{
 
 
 audio {
-    width: 600px; /* El reproductor ocupará todo el ancho del contenedor */
+    width: 600px; 
     height: 70px;
-    border-radius: 5px; /* Bordes redondeados */
-    background-color: #000000; /* Color de fondo */ 
+    border-radius: 5px; 
+    background-color: #000000; 
 }
 
 

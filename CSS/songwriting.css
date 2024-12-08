@@ -146,25 +146,26 @@ body::after{
     color: rgb(228, 233, 167);;
     margin-right: 10px;
 }
-.production-img {
-    height: 50%;
+.guitar-audio{
+    display: flex;
+}
+.guitar-img {
+    height: 45%;
     width: 40%;
-    margin-left: 100vh;
-    margin-top: 10vh;
+    margin-left: 13vh;
+    margin-top: 5vh;
 }
 
-.production-img img {
+.guitar-img img {
     width: 80%;
     object-fit: cover;
 }
-
-
 .audio-container {
     position: absolute;  
-    top: 20%;            
-    left: 5%;          
+    top: 23%;            
+    left: 48%;          
     width: 80%;          
-    max-width: 800px;    
+    max-width: 600px;    
     padding: 5px;
     background-color: rgb(0, 0, 0); 
     border-radius: 10px;
@@ -174,37 +175,37 @@ body::after{
     flex-direction: column;
     justify-content: space-between;
 }
-.tropical-house{
+.palabras-de-titan{
     justify-content: left;
     margin-top: 5vh;
     margin-left: 14vh;
     height: 5vh;
     width: 100%;
-    color: rgb(209, 198, 255);
+    color: rgb(240, 244, 208);
     font-size: 35px;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); 
     letter-spacing: 3px;
 }
-.they-wont-get-us{
+.lost-your-chance{
     justify-content: left;
     margin-top: 5vh;
-    margin-left: 12vh;
+    margin-left: 15vh;
     height: 5vh;
     width: 100%;
-    color: rgb(209, 198, 255);
+    color: rgb(240, 244, 208);
     font-size: 35px;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); 
     letter-spacing: 3px;
 }
-.countless-hours{
+.fall-apart{
     justify-content: center;
     margin-top: 5vh;
-    margin-left: 13vh;
+    margin-left: 22vh;
     height: 5vh;
     width: 100%;
-    color: rgb(209, 198, 255);
+    color: rgb(240, 244, 208);
     font-size: 35px;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); 
@@ -213,8 +214,9 @@ body::after{
 
 
 audio {
-    width: 600px; /* El reproductor ocupará todo el ancho del contenedor */
+    width: 600px; 
     height: 70px;
-    border-radius: 5px; /* Bordes redondeados */
-    background-color: #000000; /* Color de fondo */ 
+    border-radius: 5px; 
+    background-color: #000000; 
 }
+

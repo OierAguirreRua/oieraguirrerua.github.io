@@ -129,7 +129,7 @@ body::after{
     color:rgb(132, 192, 207);
 }
 
-.production-header{
+.songwriting-header{
     justify-content: center;
     margin-top: 3%;
     height: 10vh;
@@ -140,10 +140,10 @@ body::after{
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); 
     display: flex;
 }
-.production-header-productions{
+.songwriting-header-songs{
     margin-left: 10px;
     text-transform: uppercase;
-    color: rgb(154, 95, 176);
+    color: rgb(228, 233, 167);;
     margin-right: 10px;
 }
 .production-img {

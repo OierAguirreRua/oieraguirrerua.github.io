@@ -146,6 +146,78 @@ body::after{
     color: rgb(154, 95, 176);
     margin-right: 10px;
 }
+.production-img {
+    height: 50%;
+    width: 40%;
+    margin-left: 100vh;
+    margin-top: 10vh;
+}
+
+.production-img img {
+    width: 80%;
+    object-fit: cover;
+}
+
+
+.audio-container {
+    position: absolute;  
+    top: 20%;            
+    left: 5%;          
+    width: 80%;          
+    max-width: 800px;    
+    padding: 5px;
+    background-color: rgb(0, 0, 0); 
+    border-radius: 10px;
+    text-align: left;  
+    z-index: 10; 
+    display: block;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.tropical-house{
+    justify-content: left;
+    margin-top: 5vh;
+    margin-left: 14vh;
+    height: 5vh;
+    width: 100%;
+    color: rgb(209, 198, 255);
+    font-size: 35px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); 
+    letter-spacing: 3px;
+}
+.they-wont-get-us{
+    justify-content: left;
+    margin-top: 5vh;
+    margin-left: 12vh;
+    height: 5vh;
+    width: 100%;
+    color: rgb(209, 198, 255);
+    font-size: 35px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); 
+    letter-spacing: 3px;
+}
+.countless-hours{
+    justify-content: center;
+    margin-top: 5vh;
+    margin-left: 13vh;
+    height: 5vh;
+    width: 100%;
+    color: rgb(209, 198, 255);
+    font-size: 35px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); 
+    letter-spacing: 4px;
+}
+
+
+audio {
+    width: 600px; /* El reproductor ocupará todo el ancho del contenedor */
+    height: 70px;
+    border-radius: 5px; /* Bordes redondeados */
+    background-color: #000000; /* Color de fondo */ 
+}
 
 
 

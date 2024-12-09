@@ -194,7 +194,7 @@
 - HTML and CSS files linked correctly
 - It is the main idea of what I was going for
 
-## What does not work?
+## What does not work yet?
 - Adaptability of margins and sizes outside of a 14'' screen.
 - I used too many fixed margins instead of % or vh, vw, etc.
     - I need to change that in order for everything to stay the same no matter the screen size. 

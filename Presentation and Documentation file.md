@@ -1,5 +1,5 @@
 # Oier Aguirre Rua - Official Website
-[Oier_Aguirre_Rua_Website](https://oieraguirrerua.github.io/index.html)
+[OierAguirreRuaWebsite](https://oieraguirrerua.github.io/index.html)
 ## What is this project?
 - Tis project is a personal and proffesional website, which gathers some of the work of my music portfolio
 

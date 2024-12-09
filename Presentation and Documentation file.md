@@ -61,10 +61,10 @@
     - 3. Create the bar where the navigation goes (background)
     - 4. Put the logo on the left side of navigation bar. Assign a witdh, height, etc. I asked ChatGPT to make it for me
     - 5. "Flex" to put all of the menu options in line. Assign a color to them
-    - 6. "Hover" when the mouse is on top to change color
+    - 6. "Hover" when the mouse is on top to change color. Songwriting, Production and Film-Scoring in different colors
     - 7. Put the social media icons to the right side. "Flex-direction: Colum" to have Instagram on top of Tik Tok
     - 8. "Hover" images to color when on top. If not black and white
-    - 9. "Hover" text in blue
+    - 9. "Hover" social media text in blue
 
 ### Problems:
 - Not many as I followed the video
@@ -105,6 +105,7 @@
 - Nothing important. It was preatty easy (long though)
 
 ## Songwriting
+
 - Coding of Navigation Tab + the following 
 
 - HTML: [songwriting.html](https://github.com/OierAguirreRua/oieraguirrerua.github.io/blob/main/songwriting.html)
@@ -112,10 +113,11 @@
     - In one class all together: 
         - Image:
         - Audios:
-            - MP3's and controls showing
-            - Each of them in a different section
+            - MP3's. Linked to a folder inside the main folder of the project.
+            - Each of them in a different section having:
                 - Title
                 - Audio file
+            
 
 - CSS: [songwriting.css](https://github.com/OierAguirreRua/oieraguirrerua.github.io/blob/main/CSS/songwriting.css)
     - Image and audios class. "Display: flex" So that image to the right and audios to the left
@@ -140,6 +142,76 @@
   max-width: 100%;
 }
 ```
+## Production
+- It was pretty similar to the Songwriting section, but changing the audios and image of position and giving them other colors (purple). Thus, I will not go in detail in this one. 
+- HTML:[production.html](https://github.com/OierAguirreRua/oieraguirrerua.github.io/blob/main/production.html)
+- CSS: [production.css](https://github.com/OierAguirreRua/oieraguirrerua.github.io/blob/main/CSS/production.css)
+
+## Film Scoring
+- For this one I have a folder with 6 scenes I put the music to. All of them exported to mp4´s to weigh as less as posible and be supported by most of the browsers.
+
+- Code:
+ - Coding of Navigation Tab + the following 
+
+- HTML: [filmscoring.html](https://github.com/OierAguirreRua/oieraguirrerua.github.io/blob/main/filmscoring.html)
+    - I have a header too. Similar to other sections, but in yellow the word "Film Scenes"
+    - I did the same as with the MP3's on the songwriting and production sections, put them in groups to then position them together.
+        - Videos Up Row. 3 videos
+        - Videos Down Row. 3 Videos
+    - Assigned a poster from the "Posters" folder so that they would look good before playing the video.
+
+- CSS:  [filmscoring.css](https://github.com/OierAguirreRua/oieraguirrerua.github.io/blob/main/CSS/filmscoring.css)
+    - All the videos. "Justify-content: center". Display evenly throughout the screen
+        - Videos Up Row. 
+            - "Display: flex". So that they are in line
+            - Margins
+            - "Justify-content: space between;". Space evenly between them.
+        - Videos Down Row
+            - Same thing as with the Videos Up Row.
+
+### Problems
+- Had some videos in mov first, but had to export them to mp4 as it was too much weight (over 100MB) for github to upload it.
+
+## Contact
+- As it is a fixed image, I was going to code the "Contact Info" at first, as I did in the Home Page.
+- I decided not to do so, as it is easier for the image to adapt to different screen sizes.
+- Also, much less coding. Even less than main page
+
+- HTML: [contact.html](https://github.com/OierAguirreRua/oieraguirrerua.github.io/blob/main/contact.html)
+    - I just copied the html code from the main page.
+    - Replaced the image
+    - Delete my name "Oier Aguirre Rua"
+- CSS: [contact.css](https://github.com/OierAguirreRua/oieraguirrerua.github.io/blob/main/CSS/contact.css)
+
+# Sumary
+## What works?
+- Interactivity of navigation Tab good.
+- Pretty look
+- Links to social media work correctly
+- "Hover" makes the webpage really interactive
+- HTML and CSS files linked correctly
+- It is the main idea of what I was going for
+
+## What does not work?
+- Adaptability of margins and sizes outside of a 14'' screen.
+- I used too many fixed margins instead of % or vh, vw, etc.
+    - I need to change that in order for everything to stay the same no matter the screen size. 
+    - Text boxes and boxes in general are smalles in a bigger screen and viceversa
+
+- Apart from that, everything I tried and coded works correcty!!
+
+## Future Implementation
+- Drop-down menu.
+- More visuals. Transitions between different sections. 
+- Available for phone and other displays. 
+
+# My thoughts
+- Although there are things to make better and fix, I am really proud of it!
+- I do have a webpage now with some of my work.
+- I coded everything myself!! I am really proud of that! Took really long, but I did it!!
+
+
+
 
 
 

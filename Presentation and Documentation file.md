@@ -125,7 +125,10 @@
         - Audio files put in containers, so that I could adjust eh position of them
 
 ### Problems
-- I coudldn´t have the audios to display, they did not appear. I spent 2 hours trying to fix it, so I have all my code to Chat GPT and ask to find the solution [ChatGPT] ()
+- I coudldn´t have the audios to display, they did not appear. I spent 2 hours trying to fix it, so I have all my code to Chat GPT and ask to find the solution [ChatGPT_Interaction1] (https://github.com/OierAguirreRua/oieraguirrerua.github.io/blob/main/Chat%20GPT%20Interaction/Chat%20GPT%20Audio%20Issue%201.png)
+[ChatGPT_Interaction2](https://github.com/OierAguirreRua/oieraguirrerua.github.io/blob/main/Chat%20GPT%20Interaction/Chat%20GPT%20Audio%20Issue%202.png)
+
+### Solution
 - The reset Style Sheet was preventing the audios to display! It makes sense.
 - Added the following to the "reset.css" to fix it:
 ```css
@@ -136,4 +139,6 @@
   max-width: 100%;
 }
 ```
+
+
 

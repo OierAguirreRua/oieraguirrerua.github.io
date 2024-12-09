@@ -49,17 +49,19 @@
         - 2 main sections:
             - Head
                 - Some HTML presets
-                - Little logo Icon on Tab. I asked Chat GPT to make me a simple one
+                - Little logo Icon on Tab. I asked Chat GPT to make me a simple one.
+                    - [ChatGPT_TabLogo](https://github.com/OierAguirreRua/oieraguirrerua.github.io/blob/main/Chat%20GPT%20Interaction/Icon%20for%20Tab.png)
                 - "Reset Style Sheet".
                     - It resets the presets each browser has. Deletes margins for example.
                     - Grab the idea from YouTube, Dani Krossing
                     - I Took the code from [css-tricks](https://css-tricks.com/an-interview-with-elad-shechter-on-the-new-css-reset/) 
                         - [My_Reset_Stylesheet](https://github.com/OierAguirreRua/oieraguirrerua.github.io/blob/main/CSS/reset.css)
 - CSS:(Steps)
-    - 1. Cursor to pointer when on navigation tab
+    - 1. Cursor to pointer when on any of the navigation tab words
     - 2. Instagram and TikTok logos in
     - 3. Create the bar where the navigation goes (background)
-    - 4. Put the logo on the left side of navigation bar. Assign a witdh, height, etc. I asked ChatGPT to make it for me
+    - 4. Put the logo on the left side of navigation bar. Assign a witdh, height, etc. I asked ChatGPT to create the logo for me
+        - [ChatGPT_MainLogo](https://github.com/OierAguirreRua/oieraguirrerua.github.io/blob/main/Chat%20GPT%20Interaction/Logo.png)
     - 5. "Flex" to put all of the menu options in line. Assign a color to them
     - 6. "Hover" when the mouse is on top to change color. Songwriting, Production and Film-Scoring in different colors
     - 7. Put the social media icons to the right side. "Flex-direction: Colum" to have Instagram on top of Tik Tok

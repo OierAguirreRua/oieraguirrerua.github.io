@@ -139,9 +139,13 @@ body::after{
     align-items: center;
     background-size: 100vh;
 }
-
 .contact-img {
     width: 100%;
     height: auto;
     object-fit: cover; 
+}
+.contact-background-img{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
 }
